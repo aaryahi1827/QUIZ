@@ -1,0 +1,14 @@
+h1{
+    background-color: rgb(165, 192, 202);
+    font-size: 50px;
+    font-family: cursive;
+    margin-top: 1cm;
+}
+
+#score{
+    font-size: 30px;
+    font-family: cursive;
+    background-color: rgb(188, 235, 253);
+    margin-top: 1cm;
+    
+}
